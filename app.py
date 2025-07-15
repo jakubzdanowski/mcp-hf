@@ -43,4 +43,4 @@ demo = gr.Interface(
 
 # Launch the interface and MCP server
 if __name__ == "__main__":
-    demo.launch(mcp_server=True)
+    demo.launch()
