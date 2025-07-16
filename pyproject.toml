@@ -1,11 +1,12 @@
 [project]
-name = "mcp"
+name = "mcp-hf"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "gradio[mcp]>=5.27.1",
+    "huggingface-hub[mcp]>=0.32.0",
     "textblob>=0.19.0",
 ]
 
