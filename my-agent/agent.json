@@ -7,7 +7,7 @@
 			"command": "npx",
 			"args": [
 				"mcp-remote",
-				"http://localhost:7860/gradio_api/mcp/sse"
+				"http://localhost:7861/gradio_api/mcp/sse"
 			]
 		}
 	]
